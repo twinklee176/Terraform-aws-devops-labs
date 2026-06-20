@@ -1,8 +1,8 @@
 # Terraform-aws-devops-labs
 Terraform AWS DevOps Hands-on Labs
 
-##Tasks Overview
-Task 1: EC2 Instance with Public IP
+## Tasks Overview
+## Task 1: EC2 Instance with Public IP
 
 Provisioned an EC2 instance using Terraform with a public IP address enabled.
 
@@ -19,7 +19,7 @@ Key focus:
 
 Private networking in AWS
 Secure instance deployment
-##Task 3: S3 → SQS → Lambda Pipeline
+## Task 3: S3 → SQS → Lambda Pipeline
 
 Implemented an event-driven architecture using AWS services:
 
@@ -34,7 +34,7 @@ Key focus:
 Serverless architecture
 Event-driven processing
 
-##Task 4: Terraform Variables
+## Task 4: Terraform Variables
 
 Demonstrates the usage of different Terraform variable types:
 
@@ -59,7 +59,7 @@ AWS (EC2, S3, SQS, Lambda, IAM)
 Git & GitHub
 
 
-#Repository Structure
+# Repository Structure
 
 Terraform-AWS-Labs/
 │
